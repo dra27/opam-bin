@@ -1,5 +1,6 @@
 #!/usr/bin/env ocaml
 ;;
+#directory "+unix"
 #load "unix.cma"
 
 let query cmd =
